@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhiyaIsBipolar
+- 👋 Hi, I’m @blondedye
 - 👀 I’m interested in prgoramming
 - 🌱 I’m currently learning python, html and css
 - 💞️ I’m looking to collaborate on anything possible
